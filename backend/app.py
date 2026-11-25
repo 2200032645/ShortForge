@@ -14,7 +14,7 @@ FRONT = ROOT / "frontend"
 for d in (OUT, CLIPS_DIR, FINAL_DIR):
     d.mkdir(parents=True, exist_ok=True)
 
-app = FastAPI(title="AI Video Studio")
+app = FastAPI(title="ShortForge")
 jobs: dict = {}
 jobq: "queue.Queue[str]" = queue.Queue()
 
