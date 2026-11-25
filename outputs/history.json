@@ -1,0 +1,53 @@
+{
+  "20261125_180333_3890": {
+    "id": "20261125_180333_3890",
+    "status": "done",
+    "message": "Finished",
+    "prompts": [
+      "wide establishing shot of cat dancing, cinematic lighting",
+      "close-up of cat dancing, shallow depth of field"
+    ],
+    "total": 2,
+    "done": 2,
+    "video": "/outputs/final/20261125_180333_3890.mp4",
+    "created": 1795610013.4977791,
+    "width": 384,
+    "height": 672,
+    "length": 33,
+    "slow": 1.5,
+    "started": 1795610013.4989362,
+    "finished": 1795610635.4752796
+  },
+  "20261125_182520_d02f": {
+    "id": "20261125_182520_d02f",
+    "status": "done",
+    "message": "Finished",
+    "prompts": [
+      "a fluffy orange cat standing on its hind legs dancing in a living room, full body, real cat",
+      "close-up of a fluffy orange cat's face, happy, soft window light",
+      "a fluffy orange cat spinning in the middle of a bright living room",
+      "a fluffy orange cat bowing at the end of a dance, warm light"
+    ],
+    "narrations": [
+      "Meet Oliver, the happiest dancing cat on the internet.",
+      "He practices every single morning.",
+      "And his spins are getting better every day.",
+      "Thank you for watching, see you next time!"
+    ],
+    "total": 4,
+    "done": 4,
+    "video": "/outputs/final/20261125_182520_d02f.mp4",
+    "created": 1795611320.3975341,
+    "width": 384,
+    "height": 672,
+    "length": 33,
+    "slow": 1.5,
+    "avoid": "",
+    "voice": "female",
+    "captions": true,
+    "cooldown": 30,
+    "seed": 106382360210375,
+    "started": 1795611320.398171,
+    "finished": 1795613997.8592103
+  }
+}

@@ -1,0 +1,4 @@
+file 'D:/AIVideoStudio/outputs/work/20261125_182520_d02f/seg01.mp4'
+file 'D:/AIVideoStudio/outputs/work/20261125_182520_d02f/seg02.mp4'
+file 'D:/AIVideoStudio/outputs/work/20261125_182520_d02f/seg03.mp4'
+file 'D:/AIVideoStudio/outputs/work/20261125_182520_d02f/seg04.mp4'
